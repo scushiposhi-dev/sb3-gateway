@@ -13,5 +13,4 @@ class Sb3GatewayApplicationTests {
     void contextLoads() {
         assertNotNull(Sb3GatewayApplicationTests.class);
     }
-
 }
